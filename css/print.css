@@ -1,0 +1,6 @@
+@media print {
+  @page {
+    size: A4;
+    margin: 24mm 27mm 20mm 20mm;
+  }
+}
